@@ -4,3 +4,5 @@ Is an application written originally on Xcode, the application was required to o
 
 
 Open Xcode and select pickImage.xcodeproj from the repository you just cloned.
+
+ bayan zomarah
